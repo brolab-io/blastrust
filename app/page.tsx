@@ -1,3 +1,9 @@
+import TestSign from "@/components/TestSign";
+
 export default function Home() {
-  return <main>asdsad asdasdsa</main>;
+  return (
+    <main>
+      <TestSign />
+    </main>
+  );
 }
