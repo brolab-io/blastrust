@@ -8,6 +8,7 @@ const navigation = [
   { name: "Explorer", href: "/explorer" },
   { name: "Top Agent", href: "/top-agent" },
   { name: "About", href: "/about" },
+  { name: "My Profile", href: "/profile" },
 ];
 
 export default function MyHeader() {
